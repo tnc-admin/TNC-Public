@@ -34,7 +34,7 @@
 /* COMPONENT CONTAINER                        */
 /*--------------------------------------------*/
 .mppw-component-container {
-    font-family: 'Jost' sans-serif;
+    font-family: "Gill Sans", sans-serif;
     color: var(--root-text-color);
     line-height: initial;
     max-width: 90vw;
